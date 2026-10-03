@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "afbaa5834368f8f8a645b247",
+  "owner": "cwcqqj",
+  "repo": "page-d82c093d8dde9dc17b1e9254",
+  "title": "鸥鹏云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d82c093d8dde9dc17b1e9254",
+      "a": "鸥鹏云",
+      "b": "",
+      "entity": "鸥鹏云",
+      "brand": "鸥鹏云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "18dec5116724041c71d985b9161ca5a043b347ec0e36a220e98299296447ae78",
+      "content": {
+        "keyword1": "鸥鹏云",
+        "keyword2": "",
+        "primary_entity": "鸥鹏云",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "鸥鹏云提供稳定的机场订阅与 VPN 网络加速服务，覆盖多端客户端下载、流媒体解锁与游戏专线。访问官网了解套餐对比、操作说明与官方下载入口。",
+          "AI_DESCRIPTION": "鸥鹏云提供稳定的机场订阅与 VPN 网络加速服务，覆盖多端客户端下载、流媒体解锁与游戏专线。访问官网了解套餐对比、操作说明与官方下载入口。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>html{overflow-x:hidden}body{margin:0;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#eef6f8;color:#10233a;font-size:16px;line-height:1.75}a{color:#0e7c86;text-decoration:none}header{background:#0b1f3a;color:#f3fffe;padding:14px 16px}.brand-mark{font-size:1.2rem;font-weight:700;color:#7ef0ea}.nav{display:flex;flex-wrap:wrap;gap:8px 14px;margin-top:10px}.nav a{color:#c9f7f4;font-size:0.95rem}.wrap{max-width:1080px;margin:0 auto;padding:0 16px}main{padding:18px 0 42px}h1{font-size:1.85rem;line-height:1.3;color:#0b1f3a;margin:6px 0 12px}h2{font-size:1.32rem;color:#0b1f3a;margin:28px 0 12px;padding-bottom:6px;border-bottom:3px solid #1ac7c9}h3{font-size:1.06rem;color:#0b3a4a;margin:0 0 8px}.lead{font-size:1.04rem;color:#2c455c}.panel{background:#fff;border:1px solid #d3e5ee;border-radius:10px;padding:16px 18px;margin:12px 0}.cols{display:grid;grid-template-columns:1fr;gap:16px}.plans{display:grid;grid-template-columns:1fr;gap:14px}.plan{background:#fff;border:1px solid #cfe0ea;border-radius:12px;padding:18px;display:flex;flex-direction:column}.plan.featured{border:2px solid #14c4c8;background:#f3fcfd}.badge{display:inline-block;background:#14c4c8;color:#042428;font-size:0.75rem;font-weight:700;padding:2px 8px;border-radius:999px;margin-bottom:8px}.price{font-size:1.4rem;font-weight:700;color:#0b1f3a}.annual{color:#4d6578;font-size:0.92rem;margin:4px 0 10px}.plan ul{margin:0;padding-left:18px;flex:1}.plan li{margin:6px 0}.cta{margin-top:14px;display:block;text-align:center;background:#0b1f3a;color:#fff;padding:8px 12px;border-radius:8px}.featured .cta{background:#0e8b90}.steps{list-style:none;padding:0;margin:0;counter-reset:step}.steps li{margin:0 0 12px;padding:12px 12px 12px 48px;background:#fff;border:1px solid #d3e5ee;border-radius:8px;position:relative}.steps li:before{counter-increment:step;content:counter(step);position:absolute;left:12px;top:12px;width:28px;height:28px;border-radius:50%;background:#0b1f3a;color:#fff;text-align:center;line-height:28px;font-size:0.85rem}details{background:#fff;border:1px solid #d3e5ee;border-radius:8px;margin:8px 0;padding:10px 14px}summary{font-weight:700;color:#0b1f3a}details p{margin:8px 0 4px;color:#2c455c}.muted{color:#4d6578}.ad{background:#0b1f3a;color:#dffaf8;padding:12px 16px;border-radius:8px;margin:20px 0}.footer{background:#072033;color:#c5d8e4;padding:24px 16px;font-size:0.92rem}.footer a{color:#7ef0ea}.footer h2,.footer h3{color:#e9fffc;border:none;margin:12px 0 8px;font-size:1.05rem;padding:0}.footgrid{display:grid;grid-template-columns:1fr;gap:12px}ul.plain{padding-left:18px;margin:0}.note{font-size:0.9rem;color:#4d6578}dl.meta{margin:0}dl.meta dt{font-weight:700;margin-top:8px}dl.meta dd{margin:0;color:#2c455c}@media (min-width:720px){.cols{grid-template-columns:1fr 1fr}.plans{grid-template-columns:1fr 1fr 1fr}.footgrid{grid-template-columns:1fr 1fr 1fr}}</style><header><div class=\"wrap\"><div class=\"brand-mark\">鸥鹏云官网</div><nav class=\"nav\"><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐对比</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#sitemap\">网站地图</a></nav></div></header><main><div class=\"wrap\"><section id=\"intro\"><h1>鸥鹏云</h1><p class=\"lead\">鸥鹏云是面向跨境办公、内容创作与多设备协作的网络加速品牌。我们以机场订阅为核心，配合多端客户端，提供可落地的 VPN 梯子能力，帮助用户稳定访问国际协作工具、学术资源与流媒体平台。本页为官方网站信息页，集中说明套餐对比、使用场景、操作步骤与官网下载入口。</p><div class=\"cols\"><article class=\"panel\"><h2>品牌定位</h2><p>鸥鹏云把“能长期用、能讲清楚、能在多设备同步”作为产品原则。订阅可导入主流客户端，也可按系统获取整理后的安装说明。旗舰版强化原生流媒体与 IPLC 游戏线路，团队版面向多人同时在线与定制路由，避免把个人轻量需求和企业协作需求混为一谈。</p></article><article class=\"panel\"><h2>官方身份</h2><p>请通过鸥鹏云官网核验套餐价格、流量额度与下载说明。我们不会在非官方渠道索要远程桌面权限，也不会用临时短链替代订阅。若页面套餐、设备数量或年付价格与下列公示不一致，请停止登录并改回官网入口。</p>服务形态机场订阅 + 多协议客户端接入核心主题VPN 网络加速、梯子、加速器与客户端下载适用对象个人创作者、留学教研、跨境小团队</article></div></section><section id=\"plans\"><h2>套餐对比</h2><p class=\"muted\">价格与权益以官网公示为准。年付可锁定全年额度，适合已经明确设备数量与流量节奏的用户。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><a class=\"cta\" href=\"#download\">前往官网下载</a></article><article class=\"plan featured\"><p class=\"badge\">重点推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><a class=\"cta\" href=\"#download\">获取客户端与订阅</a></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><a class=\"cta\" href=\"#guide\">查看接入说明</a></article></div></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"cols\"><article class=\"panel\"><h3>跨境会议与文档协作</h3><p>远程周会、设计评审和代码仓库访问对连接稳定性要求更高。建议会议设备单独占用一个在线名额，优先选择延迟更稳的专线或邻近区域节点，避免把大流量下载与会议挤在同一条链路上。</p></article><article class=\"panel\"><h3>学术检索与开发镜像</h3><p>论文数据库、开源镜像和云控制台常常需要持续会话。基础版可覆盖轻度查阅；若需要多台电脑与手机同时在线，旗舰版的设备额度更从容，也便于把订阅同步到笔记本与实验室主机。</p></article><article class=\"panel\"><h3>流媒体取材与内容发布</h3><p>创作团队经常要对照海外平台的成片规格。基础版提供基础流媒体解锁，旗舰版与团队版强调全节点原生解锁。观看与上传请错开高峰，并按内容源选择对应地区节点。</p></article><article class=\"panel\"><h3>国际服游戏与低抖动线路</h3><p>旗舰版包含 IPLC 专线游戏加速优化，适合对丢包和抖动敏感的对战与组队场景。游戏主机、加速器客户端和语音软件建议纳入同一套餐的设备配额，以免会话被挤出。</p></article></div></section><section id=\"nodes\"><h2>线路与节点组织</h2><div class=\"panel\"><p>鸥鹏云按“普通节点池 / 原生流媒体节点 / IPLC 游戏优化 / VIP 高带宽”分层，而不是用单一入口覆盖所有需求。香港、东京、新加坡、洛杉矶等方向用于办公与媒体；游戏场景优先走旗舰版专线；团队版可把关键业务域名指向 VIP 节点，并把日常浏览留在普通池，减少相互抢占。</p><p class=\"note\">节点名称、入口数量会随线路维护调整。连接前请在客户端更新订阅，再按场景选择分组，而不是长期锁定过期入口。</p></div></section><section id=\"guide\"><h2>操作说明</h2><ol class=\"steps\"><li><h3>在官网确认套餐</h3><p>对照设备数、月流量和是否需要 IPLC 或定制路由。个人轻量选基础版，创作与游戏选旗舰版，多人协作选团队版。</p></li><li><h3>生成机场订阅</h3><p>完成开通后进入用户中心复制订阅链接。链接请仅保存在自己的密码管理器或客户端中，不要发到公开群。</p></li><li><h3>完成客户端下载</h3><p>前往本页下载章节，按 Windows、macOS、Android、iOS 或 Clash 系工具获取对应说明。只使用官网列出的获取方式。</p></li><li><h3>导入并连接</h3><p>在客户端粘贴订阅、更新节点列表，先选邻近办公节点测试网页与会议，再按需要切换流媒体或游戏分组。</p></li><li><h3>日常维护</h3><p>更换设备时先下线闲置终端；流量接近上限时减少大文件同步；线路异常时更新订阅并切换分组，旗舰版与团队版可走优先工单。</p></li></ol></section><section id=\"download\"><h2>客户端下载</h2><p>鸥鹏云支持把同一份机场订阅导入常见加速器与 VPN 客户端。下列入口均为官网下载说明锚点，安装完成后回到用户中心粘贴订阅即可。</p><div class=\"cols\"><article class=\"panel\"><h3>桌面端</h3><ul class=\"plain\"><li><a href=\"#download\">Windows 官方客户端说明</a></li><li><a href=\"#download\">macOS 官方客户端说明</a></li><li><a href=\"#download\">Linux 兼容内核与导入指引</a></li></ul></article><article class=\"panel\"><h3>移动与进阶</h3><ul class=\"plain\"><li><a href=\"#download\">Android 安装与订阅更新</a></li><li><a href=\"#download\">iOS 配置与分流建议</a></li><li><a href=\"#download\">Clash Meta / Surge 订阅导入</a></li></ul></article></div><p class=\"note\">官网下载只提供安装与导入说明，不会在页面内嵌自动执行文件。若第三方站点要求先安装“加速插件”才能打开订阅，请立即离开。</p></section><section class=\"ad\" id=\"ads\"><h2>合作信息</h2><p>团队版支持企业定制路由与专属客户经理。若你需要把办公域名、代码仓库和会议系统拆到不同出口，可在开通后通过官网工单说明网段与设备清单。本栏为站点内合作说明，不跳转外部落地页。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>鸥鹏云是机场还是 VPN？和梯子有什么关系？</summary><p>鸥鹏云以机场订阅为主，同时提供可在多端使用的 VPN 客户端接入方式。对用户而言，它就是一套可导入加速器的梯子服务：先在官网开通套餐，再把订阅同步到设备，用于网络加速、跨境协作和流媒体访问。</p></details><details><summary>如何在官网完成客户端下载？</summary><p>打开本页「客户端下载」章节，按操作系统选择对应说明。Windows 与 macOS 适合长期挂起的办公电脑，手机端用于出门开会，Clash 系工具适合需要自定义分流的用户。所有官方下载入口只通过鸥鹏云官网公示。</p></details><details><summary>机场订阅链接如何导入客户端？</summary><p>复制用户中心的订阅地址，在客户端选择“从 URL 更新”或“添加订阅”。导入后先更新节点，再选择分组连接。如果提示失败，检查链接是否被截断、系统时间是否准确，以及客户端协议是否匹配。</p></details><details><summary>基础版、旗舰版和团队版应该怎么选？</summary><p>3 台设备、每月 100GB、基础流媒体选基础版。需要 5 台设备、300GB、原生流媒体和 IPLC 游戏优化选旗舰版。20 台设备、1000GB、VIP 高带宽和定制路由选团队版。已经确定长期使用时，年付更合适。</p></details><details><summary>能否解锁流媒体？游戏延迟怎么看？</summary><p>基础版覆盖基础流媒体；旗舰版与团队版强调全节点原生解锁。游戏请优先使用旗舰版 IPLC 专线分组，并把语音、对战和下载错开。内容平台策略会变化，遇到地区限制时更换对应节点并更新订阅即可。</p></details><details><summary>账号能登录多少设备？流量用尽会怎样？</summary><p>基础版 3 台、旗舰版 5 台、团队版 20 台同时在线。闲置设备应及时下线。当月流量用尽后加速通道可能降速或暂停，可等待重置或在官网升级。多人共享请直接选团队版，避免反复挤占个人套餐。</p></details><details><summary>连接失败或速度不稳时如何处理？</summary><p>依次尝试：更新订阅、更换分组、检查本地防火墙、避开公共 Wi-Fi 的限制端口。会议场景不要与大文件同步并行。旗舰版提供 7x24 优先工单，团队版可联系专属客户经理协助排查路由。</p></details></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><div class=\"footgrid\"><section id=\"sitemap\"><h2>网站地图</h2><ul class=\"plain\"><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#plans\">套餐对比</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#faq\">常见问题</a></li></ul></section><section><h3>友情链接</h3><ul class=\"plain\"><li><a href=\"#\">远程协作手册</a></li><li><a href=\"#\">跨境办公清单</a></li><li><a href=\"#\">终端安全基线</a></li><li><a href=\"#\">DNS 与分流笔记</a></li></ul></section><section><h3>页脚说明</h3><p>鸥鹏云官方网站用于展示机场订阅、VPN 网络加速与客户端下载信息。本页为独立静态说明，不收集表单、不嵌入第三方脚本。</p></section></div><p class=\"note\">© 鸥鹏云 官网 · 仅展示公示套餐与使用方法</p></div></footer>",
+          "hash": "ab39fcdc0ec1d542008433d36d3e482a653ac11a6642ca5005a7b4b0c754990f",
+          "seo": {
+            "title": "鸥鹏云官网｜VPN 梯子网络加速、机场订阅与客户端下载",
+            "keywords": "鸥鹏云,鸥鹏云机场,鸥鹏云VPN,鸥鹏云官网,梯子,网络加速,加速器,机场订阅,客户端下载,官网下载",
+            "description": "鸥鹏云提供稳定的机场订阅与 VPN 网络加速服务，覆盖多端客户端下载、流媒体解锁与游戏专线。访问官网了解套餐对比、操作说明与官方下载入口。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fhwfjji.cn",
+    "host": "p-abdbe27289.fhwfjji.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "fhwfjji.cn",
+      "url": "https://fhwfjji.cn/",
+      "label": "云速",
+      "apex": "fhwfjji.cn",
+      "kind": null,
+      "identity": "usdhgdcf/page-9bf74812f815c56a60666665"
+    },
+    {
+      "host": "06nzki.cn",
+      "url": "https://06nzki.cn/",
+      "label": "鸥鹏云",
+      "apex": "06nzki.cn",
+      "kind": null,
+      "identity": "eqjcuwagpuk/page-915b6c0328066a0d38a9c712"
+    },
+    {
+      "host": "0n7w4l.cn",
+      "url": "https://0n7w4l.cn/",
+      "label": "鸥鹏云",
+      "apex": "0n7w4l.cn",
+      "kind": null,
+      "identity": "espdhy/page-19f1577f9e78f560e0e163f7"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "bf6ff8cbf91fe8c25df3a678afae732fa8809681fee28554062e12e893ed4440",
+    "sitemap.xml": "f3c6889e0e808e0d4a4c28328d133eb8a0ac37b6d84818331b65976ecc584365",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "40fdc25a3916f02f2a6f00af53fc8b943c498285b63b616e04d4dd25931174d9",
+    "robots.txt": "53da358893a249509f8a2f7911c45d4d03ef532754d4c95e6ce46d57304a90d0",
+    "fb197a8bc3a8eacc8ec2659413e64270.txt": "67358f5b17b8861370c2715ae6410107e6f46bf5a541a2297dcbeba8bc4011d9"
+  },
+  "revision": "9f7f51f94d85a288f3256822d84a6bd4680b32d6984ef3e303db137c03d18626"
+}
